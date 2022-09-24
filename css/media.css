@@ -1,0 +1,44 @@
+@media (max-width: 1500px) {
+    .menu-btn i{
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    .menu-btn i {
+        display: block;
+    }
+    .nav-right ul{
+        display: none;
+    }
+
+
+
+    /* about section */
+
+    .abaut-content{
+        display: block;
+    }
+    .abaut-content-left{
+        width: 100%;
+    }
+    .abaut-content-right{
+        width: 100%;
+        margin-top: 20px;
+    }
+
+/* Skills Sectin   */
+
+.skills{
+
+}
+
+/* my services   */
+
+    .services-content .card{
+        margin-bottom: 20px;
+    }
+
+
+}
+
